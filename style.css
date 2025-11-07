@@ -242,9 +242,12 @@
 }
 
 copyright{
+  display: block;
+  text-align: center;
   color: #666;
   font-size: 13px;
   margin-top: 15px;
+}
 }
 }
 
